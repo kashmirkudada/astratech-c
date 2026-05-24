@@ -9,3 +9,8 @@ console.log(table * 7);
 console.log(table * 8);
 console.log(table * 9);
 console.log(table * 10);
+
+const table2 = 2;
+for (let i = 1; i <= 10; i++) {
+  console.log(table2 * i);
+}
